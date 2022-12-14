@@ -17,7 +17,6 @@
 title: ROBOTICS LAB URJC
 email: c.verap.2019@alumnos.urjc.es
 description: "Bitacora for my bachelor's degree final project."
-twitter_username: csanrobotics
 github_username: carlotavera
 minimal_mistakes_skin: dark
 search: true
@@ -57,31 +56,25 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Cristian Sanchez Rodriguez"
+  name   : "Carlota Vera Palacios"
   avatar : "/assets/images/bio-photo.jpeg"
   bio    : "Software robotics engineer at URJC"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/csanrod"
+      url: "https://github.com/carlotavera"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/csanrod/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/csanrobotics"
+      url: "https://www.linkedin.com/in/carlotaverapalacios/"
 
 footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/csanrod/"
+      url: "https://www.linkedin.com/in/carlotaverapalacios/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/csanrod"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/csanrobotics"
+      url: "https://github.com/carlotavera"
 
 defaults:
   # _posts
